@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9s/h7l4fAEZV4TIjQlYQ41Ks8iTEB3RkvBT/ymi+IsJlqY50+D5simdqctaaVZMNE45Dyfvt/RbcgpYfHcaeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grego\\OneDrive\\Escritorio\\Calculadora-master\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\grego\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\grego\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\grego\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
